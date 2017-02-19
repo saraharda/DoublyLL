@@ -1,7 +1,3 @@
-DoublyLinkedList Implementation
-
-
-
 -DoublyLinkedList.java contains the implementation of the doubly linked list 
 
 -DoublyLinkedListNode.java contains the implementation of the node of the doubly linked list
